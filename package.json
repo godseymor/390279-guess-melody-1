@@ -26,5 +26,7 @@
   "engines": {
     "node": "10"
   },
-  "dependencies": {}
+  "dependencies": {
+    "prop-types": "15.7.2"
+  }
 }
