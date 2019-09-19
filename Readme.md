@@ -1,7 +1,7 @@
 # Учебный проект «Угадай мелодию» [![Build status][travis-image]][travis-url]
 
 * Студент: [Александр Малец](https://up.htmlacademy.ru/react/1/user/390279).
-* Наставник: `Неизвестно`.
+* Наставник: [Юрий Татаринцев](https://up.htmlacademy.ru/react/1/user/235196).
 
 ---
 
